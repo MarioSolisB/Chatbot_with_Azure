@@ -1,0 +1,6 @@
+{
+    "model": "model",
+    "AZURE_OPENAI_ENDPOINT": "https://EXAMPLE.openai.azure.com",
+    "AZURE_OPENAI_API_KEY": "123456",
+    "api_version": "2202-00-00-preview"
+}

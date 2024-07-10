@@ -1,0 +1,5 @@
+{
+    "model": "gpt4-8k-jim2",
+    "AZURE_OPENAI_ENDPOINT": "https://canada-openai-collabdevs2.openai.azure.com",
+    "api_version": "2024-02-15-preview"
+}
