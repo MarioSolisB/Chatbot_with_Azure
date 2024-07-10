@@ -6,3 +6,7 @@ One special feature, the GUI is made in Streamlit and it shows in lateral box th
 Here there are a pick of the chatbot:
 
 ![alt text](figure_1.png "Title")
+
+
+
+[In the next link you can find the deployment in Streamlit](https://chatbotwithazure-proof.streamlit.app/).
